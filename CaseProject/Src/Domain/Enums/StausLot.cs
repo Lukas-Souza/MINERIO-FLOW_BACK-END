@@ -1,0 +1,18 @@
+namespace Enums.StatusLote;
+public enum StatusLote
+{
+    PLANEJADO,
+    EXTRACAO,
+    EXTRAIDO,
+    PROCESSAMENTO,
+    PROCESSADO,
+    ESTOQUE,
+    RESERVADO,
+    CARREGAMENTO,
+    TRANSPORTE,
+    ENTREGUE,
+    FATURADO,
+    ENCERRADO,
+    BLOQUEADO,
+    CANCELADO
+}
